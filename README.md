@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### I'm a Front-End Developer in Ankara, Turkey.
 
-- 🔭 I’m currently working on React.js, Next.js Javascript, HTML and CSS.
+- 🔭 I’m currently working on React.js, Next.js, Javascript, HTML and CSS.
 - 🌱 I’m currently learning React.js.
 ### Connect with me:
 www.linkedin.com/in/hakan-pala-8963b3206
